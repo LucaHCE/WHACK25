@@ -1,0 +1,2 @@
+# Save as say_hi.py
+print("hi")
